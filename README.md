@@ -15,5 +15,3 @@ I am Moe, currently working as a Associate Technitian at the Infosys. I am a AWS
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=moe-ko&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moe-ko&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=moe-ko.moe-ko)
