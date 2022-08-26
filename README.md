@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![img](https://github.com/moe-ko/moe-ko/blob/master/download.png)
 I am Moe, currently working as a Associate Technitian at the Infosys. I am a AWS CCP graduates / developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-moe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moe-ko/)](https://www.linkedin.com/in/moe-ko)
