@@ -14,7 +14,7 @@ I am Moe, currently working as a Associate Technician at the Infosys. I am a AWS
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-13aa52?style=for-the-badge&logo=spring&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-13aa52?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
