@@ -12,7 +12,9 @@ I am Moe, currently working as a Associate Technician at the Infosys. I am a AWS
 ![React](https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-13aa52?style=for-the-badge&logo=Spring&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-13aa52?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -20,9 +22,6 @@ I am Moe, currently working as a Associate Technician at the Infosys. I am a AWS
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-CB3837?style=for-the-badge&logo=Spring&logoColor=white)
-
-
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=moe-ko&count_private=true&show_icons=true&include_all_commits=true)
