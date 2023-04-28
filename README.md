@@ -17,9 +17,10 @@ I am Moe, currently working as a Associate Technician at the Infosys. I am a AWS
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%A32CC4.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-CB3837?style=for-the-badge&logo=Spring&logoColor=white)
 
 
 
