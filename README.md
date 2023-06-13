@@ -24,5 +24,5 @@ I am Moe, currently working as a Associate Technician at the Infosys. I am a AWS
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 
-![Moe's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Moe's GitHub stats](https://github-readme-stats.vercel.app/api?username=moe-ko&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moe-ko&hide=TeX&layout=compact)
