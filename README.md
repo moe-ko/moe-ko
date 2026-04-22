@@ -1,6 +1,6 @@
 ![img](https://github.com/moe-ko/moe-ko/blob/master/download.png)
 
-I am Moe, currently working as a Associate Technician at the Infosys. I am a AWS CCP graduates / developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+DevOps extraordinaire here, with a knack for herding cats (I mean, bridging dev and ops teams). Former full-stack developer who decided to trade in my front-end hat for a cloud-shaped one.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moe-ko)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white)](https://moeko.netlify.app/)
